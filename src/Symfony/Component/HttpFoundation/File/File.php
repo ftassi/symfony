@@ -24,7 +24,6 @@ use Symfony\Component\HttpFoundation\File\MimeType\MimeTypeGuesser;
  */
 class File extends \SplFileInfo
 {
-
     /**
      * A map of mime types and their default extensions.
      *
